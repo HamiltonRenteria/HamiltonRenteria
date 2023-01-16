@@ -6,8 +6,8 @@ I'm a full stack software developer with 7 years of experience, working mainly w
 - 🌱 I am currently learning Architecture with Google....
 - 💞️ I am looking to collaborate in ...
 - 📫 How to reach me?
-  • :camera: Instagram: [@hamiltonrenmordev](https://www.instagram.com/hamiltonrenmordev/)
-  • :bird: Twitter: [@HamiltonRenMor](https://twitter.com/HamiltonRenMor)
+  - :camera: Instagram: [@hamiltonrenmordev](https://www.instagram.com/hamiltonrenmordev/)
+  - :bird: Twitter: [@HamiltonRenMor](https://twitter.com/HamiltonRenMor)
 
 <!---
 HamiltonRenteria/HamiltonRenteria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
